@@ -1,0 +1,43 @@
+.h1{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(2, 10, 46);
+    font-weight: 900;
+    background-color: red;
+    
+
+}
+
+.p1{
+    font-size: medium;
+    font-family: cursive;
+    font-style: oblique;
+    color: black;
+    background-color: yellow;
+    animation-name: example;
+    animation-duration: 4sec;
+    animation-iteration-count: infinite;
+
+}
+@keyframes example{
+    from{background-color: yellow;}
+    to{background-color: green;}
+}
+
+
+.h2{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(1, 2, 9);
+    font-weight: 900;
+    background-color: red;
+
+}
+.p2{
+    font-size: medium;
+    font-family: cursive;
+    font-style: oblique;
+    color: black;
+    background-color: yellow;
+
+}
